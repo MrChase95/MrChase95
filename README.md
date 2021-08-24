@@ -18,7 +18,7 @@ My name is Matheus Pedro Ferreira. I work as a Backend Developer at Zup Innovati
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChase95&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChase95&layout=compact&count_private=true&hide=html,css)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=MrChase95&count_private=true&show_icons=true)
 
@@ -29,7 +29,3 @@ My name is Matheus Pedro Ferreira. I work as a Backend Developer at Zup Innovati
 <p align="left">
 
 <a href="https://www.linkedin.com/in/matheus-pedro-ferreira/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<a href=""><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
-</p>
